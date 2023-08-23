@@ -1,7 +1,7 @@
 ### Hello, There! 👋
 
 Meu nome é Gabriel Oliveira.
-Sou um Desenvolvedor Full-Stack, Designer e autalmente estou cursando Análise e Desenvolvimento de Sistemas, no Instituto Federal do Piauí - IFPI.
+Sou um Desenvolvedor Full-Stack, Designer e atualmente estou cursando Análise e Desenvolvimento de Sistemas, no Instituto Federal do Piauí - IFPI.
 
 Tenho conhecimento acerca das seguintes tecnologias: <br>
 [![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,ts,js,html,css,bootstrap,python,godot,github,mysql,postgres)](https://skills.thijs.gg)
