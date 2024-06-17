@@ -9,7 +9,7 @@ Sou **Desenvolvedor Full-Stack** e **Designer**.
 
 ---
 
-## Tecnologias que domino:
+## Tecnologias que domino
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@ Sou **Desenvolvedor Full-Stack** e **Designer**.
 
 ---
 
-## Atualmente:
+## Atualmente
 Cursando ADS no IFPI.
 
 Estagiando na Prefeitura de Teresina.
@@ -30,7 +30,9 @@ Em busca de novos desafios.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-codart&show_icons=true&theme=radical" alt="Gabriel Oliveira's GitHub stats" />
+## Status
+<div align="start">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=gabriel-codart&show_icons=true&theme=radical" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-codart&layout=compact&theme=radical" />
 </div>
 
