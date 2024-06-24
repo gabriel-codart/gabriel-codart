@@ -5,7 +5,9 @@ Meu nome é Gabriel Oliveira.
 Sou **Desenvolvedor Full-Stack** e **Designer**.
 
 [![Website Badge](https://img.shields.io/badge/Meu%20Site-Codart-blue)](https://gabriel-codart.netlify.app)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-codart/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gabrielcodart)
 
 ---
 
