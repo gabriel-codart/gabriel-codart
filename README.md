@@ -12,12 +12,12 @@ Sou **Desenvolvedor Full-Stack** e **Designer**.
 ---
 
 ## Tecnologias que domino
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-0088DD?style=flat&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3388BB?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-7744BB?style=flat&logo=python&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-FFFFFF?style=flat&logo=fastify&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-FF8000?style=flat&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-7766CC?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-34A853?style=flat&logo=google&logoColor=white)
